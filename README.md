@@ -4,6 +4,8 @@ Example of using gesture events on AR.js with A-Frame. This work is based on [th
 
 Scale and rotate 3D elements from your AR.js scene using `gesture-detector` and `gesture-handler` components.
 
+<p align="center"><img width="480" alt="Spoke" src="https://killcloud.nyc3.digitaloceanspaces.com/assets/ezgif.com-optimize.gif"></p>
+
 ## Try now!
 
 #### Image Tracking
