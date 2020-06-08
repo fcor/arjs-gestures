@@ -1,10 +1,11 @@
-# AR.js & A-Frame Gestures
+<h1 align="center">AR.js & A-Frame Gestures</h1>
+
+<p align="center"><img width="400" alt="gesture sample" src="https://user-images.githubusercontent.com/21111451/83983551-00accd00-a8f5-11ea-80a6-e075971ba1d2.gif"></p>
 
 Example of using gesture events on AR.js with A-Frame. This work is based on [this example](https://github.com/8thwall/web/blob/master/examples/aframe/manipulate/README.md) from 8th Wall.
 
 Scale and rotate 3D elements from your AR.js scene using `gesture-detector` and `gesture-handler` components.
 
-<p align="center"><img width="400" alt="gesture sample" src="https://user-images.githubusercontent.com/21111451/83983551-00accd00-a8f5-11ea-80a6-e075971ba1d2.gif"></p>
 
 ## Try now!
 
