@@ -17,6 +17,14 @@ Scale and rotate 3D elements from your AR.js scene using `gesture-detector` and 
 
 🚀[Open this sample](https://fcor.github.io/arjs-gestures/index.html) on your phone and [scan this marker](https://killcloud.nyc3.digitaloceanspaces.com/assets/Hiro_marker_ARjs.png)
 
+## Installation
+
+Import this file if you want default touch events. Keep reading to learn how to extend it.
+
+```html
+<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
+```
+
 ## How it works?
 
 `gesture-detector` listens to regular touch events directly on `a-scene` and emits a custom event indicating how many fingers were involved ("one", "two", "three" or "many") and passing some details of the event, like the position, spread and coordinates where user touched the screen. This component was developed by 8th Wall for their A-Frame based demos and can be found [here](https://github.com/8thwall/web/blob/master/examples/aframe/manipulate/gesture-detector.js).
