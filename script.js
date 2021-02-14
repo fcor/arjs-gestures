@@ -3,7 +3,7 @@ window.onload = () => {
     // const button = document.querySelector('button[data-action="change"]');
     // button.innerText = '﹖';
 
-    console.log("YEAHHHHHHH")
+    console.log("TESTT ETSTETSE")
     console.log(models)
 
     // let places = staticLoadPlaces();

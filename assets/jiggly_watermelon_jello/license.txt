@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jiggly Watermelon Jello
+* source:	https://sketchfab.com/3d-models/jiggly-watermelon-jello-c15e41a62b46487fa6dcc67af7f7acee
+* author:	Ari Crow (https://sketchfab.com/aricrow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jiggly Watermelon Jello" (https://sketchfab.com/3d-models/jiggly-watermelon-jello-c15e41a62b46487fa6dcc67af7f7acee) by Ari Crow (https://sketchfab.com/aricrow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
